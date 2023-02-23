@@ -21,8 +21,8 @@ void pump3changed(uint8_t power);
 void mixed(uint8_t power);
 
 // WiFi Credentials
-const char* ssid = "Praghaadeesh";
-const char* password = "9443396650";
+const char* ssid = "***********";
+const char* password = "***********";
 
 // device names
 String Device_1_Name = "water";
